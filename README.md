@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shynamei
-- 👀 I’m interested in programming and designing
-- 🌱 I’m currently learning python, cloud and graphic design
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cybersecurity, programming, and designing
+- 🌱 I’m currently diving into networking, and cloud computing!
 - 📫 How to reach me: a.shainameialvez@gmail.com 
 
 <!---
